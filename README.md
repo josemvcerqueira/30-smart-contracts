@@ -4,7 +4,8 @@ The solidity version used in the contracts is `pragma solidity ^0.5.0`.
 
 ## List of contracts
 
--   advancedStorage.sol : It shows how to set/get data and length from an array.
+-   AdvancedStorage.sol : A smart contract to get and set data into a dynamic array.
+-   Crud.sol : A smart contract to create, read, update and destroy data.
 
 ## Deploy
 
