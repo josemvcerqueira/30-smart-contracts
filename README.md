@@ -7,6 +7,7 @@ The solidity version used in the contracts is `pragma solidity ^0.5.0`.
 -   AdvancedStorage.sol : A smart contract to get and set data into a dynamic array.
 -   Crud.sol : A smart contract to create, read, update and destroy data.
 -   EtherWallet.sol : A smart contract to check the balance, deposit and send Ether.
+-   SplitPayment.sol : A smart contract for split paymennts
 
 ## Deploy
 

@@ -21,3 +21,4 @@ contract EtherWallet {
         return address(this).balance;
     }
 }
+
