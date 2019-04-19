@@ -8,6 +8,7 @@ The solidity version used in the contracts is `pragma solidity ^0.5.0`.
 -   Crud.sol : A smart contract to create, read, update and destroy data.
 -   EtherWallet.sol : A smart contract to check the balance, deposit and send Ether.
 -   SplitPayment.sol : A smart contract for split paymennts
+-	Deed.sol: A smart contract that allows a lawyer to give ether to a beneficiary after a set time
 
 ## Deploy
 
